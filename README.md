@@ -14,10 +14,8 @@
 
 # section b
 # 11 function greet( hello latifah):{
-    return "hello latifah"
+ return "hello latifah"
  }
  cosole.log(hello sarah)
-  ##  12 equal
-  ## 13 
-  # let defines a function
-  ## const cannot be changed while var and let can be renamed
+# 12 not equal , its variable is undefined 
+# 13 const cannot be changed while var and let can be renamed
